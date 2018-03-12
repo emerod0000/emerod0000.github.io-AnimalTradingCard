@@ -1,0 +1,68 @@
+body {
+
+		font-family:"Roboto", sans-serif;
+		
+		
+	}
+	
+	.information, 
+	.puppy{   
+			width:300px;
+			margin-top:10 px;
+			margin-bottom:10px;
+			margin-left:20px;
+			margin-right:20px;
+			padding:10px;
+			border-style:dashed;
+			background-color:#7FC9FFFF;
+			text-align:justify;	
+			font-weight:normal;
+			font-style:italic;
+			-webkit-box-shadow:inset -12px 13px 20px 42px rgba(0,0,0,0.41);
+			-moz-box-shadow:inset -12px 13px 20px 42px rgba(0,0,0,0.41);
+			box-shadow:inset -12px 13px 20px 42px rgba(0,0,0,0.41);
+			 
+		} 
+		
+		.puppy {
+			height:200px;
+			border-radius:300px;
+
+		}
+		
+	  .list{
+			list-style:none;
+		}
+
+		.ul{
+			padding:0px;
+			margin:0px;
+		}
+
+		.title{
+			font-weight:bold;
+			text-align:center;
+			width:300px;
+			margin:10 px;
+			padding:10px;
+			border-style:inset;
+		}
+
+		.lblbold{
+			font-weight:bold;
+		}
+
+		#MainBorder {
+		width:370px;
+		margin-top:10 px;
+		margin-bottom:10px;
+	   	padding:10px;
+	   	border-style:solid;
+	   	background-color:#00FFFF80;
+		border-style:dashed;
+		}
+
+		
+
+
+
